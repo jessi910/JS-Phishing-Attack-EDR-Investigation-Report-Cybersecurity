@@ -13,7 +13,7 @@ Investigated a simulated phishing attack that led to endpoint compromise; analyz
 - EDR log analysis across multiple hosts
 - IOC identification and threat triage
 - Incident response lifecycle documentation (Detection → Containment)
-- Timeline creation and report writing
+- Timeline creation and report writing with flag
 
 ## 🧰 Tools Used
 - TryHackMe
