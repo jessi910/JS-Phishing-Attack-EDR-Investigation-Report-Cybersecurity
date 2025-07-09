@@ -1,4 +1,4 @@
-# JS-Phishing-Attack-EDR-Investigation-Report-Cybersecurity
+# Phishing Attack EDR-Investigation Report Cybersecurity
 
 # 🛡️ Phishing Attack & EDR Investigation Report
 
@@ -18,14 +18,10 @@ Investigated a simulated phishing attack that led to endpoint compromise; analyz
 ## 🧰 Tools Used
 - TryHackMe
 - Splunk (or EDR log platform used)
-- Wireshark (optional)
 - Markdown for reporting
 - GitHub for version control and documentation
 
-## 📁 Included Files
-- `incident_timeline.md` – Event timeline from phishing delivery to containment
-- `phishing_email_analysis.txt` – Header analysis and findings
-- `edr_host_log_summary.md` – File execution findings across hosts
-- `incident_report.pdf` – Complete incident report (optional export)
+## 📁 Screenshots Included
+
 
 ---
