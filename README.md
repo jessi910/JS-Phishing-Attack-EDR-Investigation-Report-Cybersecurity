@@ -1,4 +1,3 @@
-# Phishing Attack EDR-Investigation Report Cybersecurity
 
 # 🛡️ Phishing Attack & EDR Investigation Report
 
