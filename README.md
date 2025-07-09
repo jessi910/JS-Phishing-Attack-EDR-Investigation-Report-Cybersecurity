@@ -16,7 +16,7 @@ Investigated a simulated phishing attack that led to endpoint compromise; analyz
 
 ## 🧰 Tools Used
 - TryHackMe
-- Splunk (or EDR log platform used)
+- EDR
 - Markdown for reporting
 - GitHub for version control and documentation
 
